@@ -1,0 +1,26 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Tableau files you might not want to share
+*.twbx
+*.twb
+
+# VSCode settings (optional)
+.vscode/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
